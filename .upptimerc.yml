@@ -5,6 +5,7 @@ repo: status-page # The name of this repository
 sites:
   - name: MO - movement-road-api-v2
     url: https://api.toll.no/api/movement/road/v2/swagger-ui/index.html
+    logoUrl: https://raw.githubusercontent.com/toll/toll-api-status/master/extra-images/toll-logo.jpg
   - name: MO - movement-road-query-api-v2
     url: https://api.toll.no/api/movement/road/status/v2/swagger-ui/index.html
   - name: MO - movement-air-api
