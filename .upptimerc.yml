@@ -1,27 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: toll # Your GitHub organization or username, where this repository lives
+repo: status-page # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: MO - movement-road-api-v2
+    url: https://api.toll.no/api/movement/road/v2/swagger-ui/index.html
+  - name: MO - movement-road-query-api-v2
+    url: https://api.toll.no/api/movement/road/status/v2/swagger-ui/index.html
+  - name: MO - movement-air-api
+    url: https://api.toll.no/api/movement/air/v1/swagger-ui/index.html
+  - name: MO - movement-air-query-api
+    url: https://api.toll.no/api/movement/air/status/v1/swagger-ui/index.html
+  - name: MO - movement-rail-api
+    url: https://api.toll.no/api/movement/rail/v1/swagger-ui/index.html
+  - name: MO - movement-rail-query-api
+    url: https://api.toll.no/api/movement/rail/status/v1/swagger-ui/index.html
+  - name: MO - movement-presentation-api
+    url: https://api.toll.no/api/movement/presentation/v1/swagger-ui/index.html
+  - name: MO - movement-routing-api
+    url: https://api.toll.no/api/movement/routing/v1/swagger-ui/index.html
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
