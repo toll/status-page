@@ -25,6 +25,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/toll/toll-api-status/master/extra-images/toll-logo.jpg
+  favicon: https://raw.githubusercontent.com/toll/toll-api-status/master/extra-images/toll-logo.jpg
   name: Tolletaten
   introTitle: Oversikt over livssyklusen til Tolletaten sine tjenester til eksterne API-brukere.
   introMessage: Tolletatens data- og API-dokumentasjon finner du [her:](https://toll.github.io/)  
