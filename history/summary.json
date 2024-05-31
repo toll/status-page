@@ -58,19 +58,19 @@
     "url": "https://api.toll.no/api/movement/air/v1/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.toll.no.ico",
     "slug": "mo-movement-air-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 516,
-    "timeDay": 504,
-    "timeWeek": 545,
-    "timeMonth": 505,
+    "timeDay": 509,
+    "timeWeek": 541,
+    "timeMonth": 506,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-05-31": 0
+      "2024-05-31": 5
     }
   },
   {
