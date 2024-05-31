@@ -30,7 +30,9 @@ status-website:
   favicon: https://raw.githubusercontent.com/toll/toll-api-status/master/extra-images/toll-logo.jpg
   name: Tolletaten
   introTitle: Status for Tolletatens eksterne API-er
-  introMessage: Tolletatens data- og API-dokumentasjon finner du [**her.**](https://toll.github.io/)  
+  introMessage: Tolletatens data- og API-dokumentasjon finner du [**her.**](https://toll.github.io/)
+  # Increasing cache time from 2 min to 30 min to make it less likely running into rate limiting issues
+  productionCacheTime: 1800000
   navbar:
     - title: Status
       href: /
