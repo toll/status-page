@@ -98,11 +98,11 @@
     "url": "https://api.toll.no/api/movement/rail/v1/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.toll.no.ico",
     "slug": "mo-movement-rail-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 512,
     "timeDay": 513,
@@ -110,6 +110,7 @@
     "timeMonth": 503,
     "timeYear": 512,
     "dailyMinutesDown": {
+      "2024-06-18": 2,
       "2024-06-03": 5
     }
   },
@@ -118,10 +119,10 @@
     "url": "https://api.toll.no/api/movement/rail/status/v1/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.toll.no.ico",
     "slug": "mo-movement-rail-query-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
@@ -129,17 +130,19 @@
     "timeWeek": 492,
     "timeMonth": 504,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 1
+    }
   },
   {
     "name": "MO - movement-presentation-api",
     "url": "https://api.toll.no/api/movement/presentation/v1/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.toll.no.ico",
     "slug": "mo-movement-presentation-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 510,
@@ -147,16 +150,18 @@
     "timeWeek": 484,
     "timeMonth": 500,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 1
+    }
   },
   {
     "name": "MO - movement-routing-api",
     "url": "https://api.toll.no/api/movement/routing/v1/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.toll.no.ico",
     "slug": "mo-movement-routing-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,6 +170,8 @@
     "timeWeek": 481,
     "timeMonth": 499,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 0
+    }
   }
 ]
