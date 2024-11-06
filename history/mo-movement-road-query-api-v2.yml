@@ -1,7 +1,7 @@
 url: https://api.toll.no/api/movement/road/status/v2/swagger-ui/index.html
-status: down
-code: 503
-responseTime: 452
-lastUpdated: 2024-11-06T09:41:35.458Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2024-11-06T09:46:43.042Z
 startTime: 2024-04-22T10:12:21.299Z
 generator: Upptime <https://github.com/upptime/upptime>
