@@ -1,7 +1,7 @@
 url: https://api.toll.no/api/movement/routing/v1/swagger-ui/index.html
-status: down
-code: 503
-responseTime: 432
-lastUpdated: 2025-11-13T07:13:12.898Z
+status: up
+code: 200
+responseTime: 581
+lastUpdated: 2025-11-13T07:30:25.012Z
 startTime: 2024-04-22T10:12:26.855Z
 generator: Upptime <https://github.com/upptime/upptime>
