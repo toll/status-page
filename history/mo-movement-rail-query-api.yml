@@ -1,7 +1,7 @@
 url: https://api.toll.no/api/movement/rail/status/v1/swagger-ui/index.html
 status: down
-code: 401
-responseTime: 707
-lastUpdated: 2026-01-15T23:27:11.423Z
+code: 403
+responseTime: 612
+lastUpdated: 2026-01-16T23:26:19.674Z
 startTime: 2024-04-22T10:12:24.997Z
 generator: Upptime <https://github.com/upptime/upptime>
