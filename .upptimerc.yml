@@ -2,8 +2,6 @@
 owner: toll # Your GitHub organization or username, where this repository lives
 repo: status-page # The name of this repository
 
-sites:
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -13,6 +11,7 @@ status-website:
   name: Tolletaten
   introTitle: Status for Tolletatens eksterne API-er
   introMessage: Tolletatens data- og API-dokumentasjon finner du [**her.**](https://toll.github.io/)
+  customBodyHtml: "<h1>API-ene våres er oppe og kjører! :) Vi har tatt vekk status endepunkter foreløpig, det vil komme nye endringer.</h1>"
   # Increasing cache time from 2 min to 30 min to make it less likely running into rate limiting issues
   productionCacheTime: 1800000
   navbar:
