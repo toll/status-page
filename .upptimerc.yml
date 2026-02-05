@@ -2,6 +2,11 @@
 owner: toll # Your GitHub organization or username, where this repository lives
 repo: status-page # The name of this repository
 
+sites:
+  - name: Tolletaten
+    url: https://www.toll.no
+    icon: https://www.toll.no/favicon.ico
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
